@@ -23,6 +23,7 @@ Tools we built for nlook and share with the community.
 
 | Project | What it is |
 |---------|------------|
+| **[muse-agent-ops](https://github.com/nlook-service/muse-agent-ops)** | An AI-agent-era team operations kit: a PM process where GitHub issues organize themselves — stage labels, board sync, milestone automation, plus a secret-scan safety net for public repos. Born from running a one-person company. |
 | **[design-from-code](https://github.com/nlook-service/design-from-code)** | A Claude Code plugin & Codex skill that designs UI changes from **real source code** — verify what each number counts in code, iterate faithful HTML mockups, lock a design doc, then delegate. Built while designing nlook's own screens. |
 | **[issue-template](https://github.com/nlook-service/issue-template)** | An AI-delegated dev workflow: Claude Code slash commands (`/spec` → `/implement-issue` → `/review-pr`) that turn a feature request into a verified design doc, contract-bound GitHub issues, and reviewed PRs — with a fixed model per stage. |
 | **[url-to-report](https://github.com/nlook-service/url-to-report)** | A Claude Code plugin & Codex skill that turns one business URL into a **cited, evidence-graded** marketing diagnostic — every claim graded 사실/추정/데이터 없음, never a guessed number. Local-first for brick-and-mortar, with a radar profile and a diffable score. |
